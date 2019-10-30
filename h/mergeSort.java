@@ -42,8 +42,6 @@ public class Solution {
   
           while (i <= mid) {
               array[idx++] = helper[i++];
-    }
-  
+          } 
     }
   }
-  
